@@ -1,0 +1,46 @@
+{
+
+   "details": [
+       {
+			"Experiment": "To determine the concentration of copper by spectrocolorimeter",     
+			"Lab": "Environmental Engineering lab",               
+			"Discipline": "Civil Engineering",				 
+			"Technology": "HTML, CSS, JS"         
+       }
+   ],
+
+   "developer": [
+       {       
+      "Developer": "Er. Manoj Kumar Yadava",         
+      "Institute": "Rajkiya Engineering College Banda, Banda",         
+      "InstituteAcronym": "RECB"   
+       }
+   ],
+
+   "contributer": [
+       {       
+			"Contributer": "Nitish Kumar",             
+      "Institute": "Rajkiya Engineering College Banda, Banda",               
+			"InstituteAcronym": "RECB"         
+       },
+
+       {       
+			"Contributer": "Amitabh Shahi",              
+      "Institute": "Rajkiya Engineering College Banda, Banda",               
+			"InstituteAcronym": "RECB"         
+       },
+
+       {       
+			"Contributer": "Pranjul Purwar",             
+      "Institute": "Rajkiya Engineering College Banda, Banda",               
+			"InstituteAcronym": "RECB"         
+       },
+
+       {       
+			"Contributer": "Akash Sachan",              
+      "Institute": "Rajkiya Engineering College Banda, Banda",               
+			"InstituteAcronym": "RECB"         
+       }
+   ]
+
+}
